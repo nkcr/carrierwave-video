@@ -31,7 +31,7 @@ module CarrierWave
       end
 
       def encoder_options
-        { preserve_aspect_ratio: :width }
+        {  }
       end
 
       # input
